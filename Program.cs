@@ -10,6 +10,12 @@ namespace Classes
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("This is a demo about classes in C#");
+            Console.WriteLine();
+            Console.WriteLine();
+
+
+            Console.ReadKey(true);
         }
     }
 }
